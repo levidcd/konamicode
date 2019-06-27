@@ -1,0 +1,23 @@
+{
+  "name": "@kugga/konamicode",
+  "version": "0.0.1",
+  "description": "为你的站点添加Konami Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvanWaL/konamicode.git"
+  },
+  "keywords": [
+    "konami",
+    "code"
+  ],
+  "author": "evanwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvanWaL/konamicode/issues"
+  },
+  "homepage": "https://github.com/EvanWaL/konamicode#readme"
+}
