@@ -1,6 +1,6 @@
 {
   "name": "@kugga/konamicode",
-  "version": "0.0.2",
+  "version": "0.0.9",
   "description": "为你的站点添加Konami Code",
   "main": "lib/bundle.umd.js",
   "module": "lib/bundle.esm.js",
