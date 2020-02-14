@@ -1,23 +1,23 @@
 {
-  "name": "@kugga/konamicode",
-  "version": "0.0.9",
+  "name": "@agito/konamicode",
+  "version": "0.1.0",
   "description": "为你的站点添加Konami Code",
   "main": "lib/bundle.umd.js",
   "module": "lib/bundle.esm.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EvanWaL/konamicode.git"
+    "url": "git+https://github.com/velencoder/konamicode.git"
   },
   "keywords": [
     "konami",
     "code"
   ],
-  "author": "evanwal",
+  "author": "velencoder",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EvanWaL/konamicode/issues"
+    "url": "https://github.com/velencoder/konamicode/issues"
   },
-  "homepage": "https://github.com/EvanWaL/konamicode#readme",
+  "homepage": "https://github.com/velencoder/konamicode#readme",
   "deDependencies": {},
   "devDependencies": {
     "@types/jest": "^24.0.19",
